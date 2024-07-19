@@ -2,7 +2,7 @@
 Spirometry, Pulse Oximetry, and Blood Pressure Analysis 
 
 # Data Description
-Flow_rate_data.m : Flow rate data (L) between the lungs and the atmosphere collected with a spirometer.  
+Flow_rate_data.mat : Flow rate data (L) between the lungs and the atmosphere collected with a spirometer.  
   
 Breathing_data.csv : Heart rate, photoplethsmography (PPG), and saturation of peripheral oxygen (spO2) collected with a pulse oximeter connected to BioRadio. Data is collected while the subject is in a relaxed state breathing normally for ~ 20 seconds, then holding their breath for ~ 20 seconds.   
   
